@@ -11,7 +11,7 @@ package com.mycompany.pc2_lab1;
 public class PC2_LAB1 {
 
     public static void main(String[] args) {
-        System.out.println("Hola PC2");
+        System.out.println("Como estas PC2");
             
     }
 }
